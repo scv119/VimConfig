@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/shenchen/Documents/jar/META-INF'
+let g:netrw_dirhist_2='/Applications/eclipse/readme'
+let g:netrw_dirhist_3='/Users/shenchen/.ssh'
+let g:netrw_dirhist_4='/Users/shenchen/Dropbox/Desktop/weekly_IW'
+let g:netrw_dirhist_5='/Users/shenchen/Documents/python/zpage/ctrl/main'
