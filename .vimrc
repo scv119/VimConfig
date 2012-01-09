@@ -59,3 +59,8 @@ set shiftwidth=4
 set tabstop=4 
 set softtabstop=4
 set autoindent
+
+nnoremap <c-h> <c-w>h
+nnoremap <c-l> <c-w>l
+nnoremap <c-j> <c-w>j
+nnoremap <c-k> <c-w>k
