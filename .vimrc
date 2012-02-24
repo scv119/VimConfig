@@ -4,7 +4,7 @@ let g:pydiction_location = '~/.vim/tools/pydiction/complete-dict'
 "defalut g:pydiction_menu_height == 15
 "let g:pydiction_menu_height = 20
 
-
+set cursorline
 syntax enable
 syntax on
 colorscheme desert
